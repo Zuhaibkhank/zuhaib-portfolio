@@ -25,13 +25,7 @@ This is my **personal portfolio website** showcasing my projects, skills, and ex
 
 ## 🌐 Live Website
 
-👉 https://YOUR-PORTFOLIO-LINK
-
----
-
-## 📸 Screenshots
-
-(Add screenshots here)
+👉 https://zuhaibkhank.github.io/zuhaib-portfolio
 
 ---
 
